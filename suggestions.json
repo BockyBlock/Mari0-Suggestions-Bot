@@ -48,7 +48,8 @@
         "New Super Mario Bros 2", "New Super Mario Bros Wii", "New Super Mario Bros Wii U", "New Super Mario Bros Wii U deluxe",
         "Mario is Missing", "Mario Teaches Typing", "Sonic", "Crash", "another game", "Mari0", "Mari0 1.6", "Mari0 Special Edition",
         "Mari0 Community Edition", "Mari0 Alesans Entities", "Mari0 Alesans Entities Community Edition", "Ortho Robot", "Not Tetris",
-        "Not Pac-Man", "Minecraft", "Minecraft Bedrock", "Five Night's At Freddys", "Among Us", "Discord", "Twitter"
+        "Not Pac-Man", "Minecraft", "Minecraft Bedrock", "Five Night's At Freddys", "Among Us", "Discord", "Twitter", "Half-Life",
+        "Half-Life 2", "Black Mesa", "Portal", "Portal 2"
     ],
 
     "version": [
@@ -96,7 +97,7 @@
     "toadcolor": ["Red", "Green", "Blue", "Yellow", "Purple"],
     "people": [
         "Mario", "Luigi", "Wario", "Waluigi", "Yoshi", "{toadcolor} Yoshi", "Toad", "{toadcolor} Toad", "Toadette", "Peach", "Dasiy",
-        "Pauline", "Sonic", "Crash", "Pac Man", "Crewmate", "Freddy Fazbear", "Link", "Steve"
+        "Pauline", "Sonic", "Crash", "Pac Man", "Crewmate", "Freddy Fazbear", "Link", "Steve", "Chell", "Glados", "Wheatley", "Atlas", "P body"
     ],
 
     "somepowerups_p": [ "{powerups}", "{powerups} and {powerups}", "{powerups}, {powerups} and {powerups}", "my favourite powerup, {powerups}", "the best powerup, {powerups}" ],
@@ -104,7 +105,8 @@
     "powerups": [
         "Super Mushroom", "Skinny Mushroom", "Mystery Mushroom", "Fire Flower", "Ice Flower", "Superball Flower", "Power Star",
         "One Up Mushroom", "Super Leaf", "Tanuki", "Cape Feather", "Mini Mushroom", "Mega Mushroom", "Classic Mega Mushroom",
-        "Bee Mushroom", "Spring Mushroom", "Cloud Flower", "Penguin Suit", "Propeller Mushroom", "Super Acorn", "Goomba Shoe"
+        "Bee Mushroom", "Spring Mushroom", "Cloud Flower", "Penguin Suit", "Propeller Mushroom", "Super Acorn", "Goomba Shoe",
+        "A gun"
     ],
 
     "_images": {
