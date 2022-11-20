@@ -109,32 +109,32 @@
         "A gun"
     ],
 
-    "_images": {
+     "_images": {
         "Goombas": "https://i.imgur.com/TUO84Ic.png",
         "Goombrats": "https://i.imgur.com/4p7wRqb.png",
         "Galoombas": "https://i.imgur.com/DpzFXd7.png",
-        "Dry Goombas": "??",
-        "Splunkin": "??",
+        "Dry Goombas": "https://imgur.com/b5Pru4z",
+        "Splunkin": "https://imgur.com/hUhXFJI",
 
         "Koopas": "https://i.imgur.com/ECXLj4K.png",
         "{color} Koopas": "https://i.imgur.com/ECXLj4K.png",
         "Koopa Shells": "https://i.imgur.com/ECXLj4K.png",
         "{color} Koopa Shells": "https://i.imgur.com/ECXLj4K.png",
-        "Dry Bones": "??",
+        "Dry Bones": "https://imgur.com/KeJ5xDk",
 
-        "Piranha Plants": "??",
+        "Piranha Plants": "https://imgur.com/b7CMGD7",
         "{color} Piranha Plants": "??",
         "Fire Piranha Plants": "??",
-        "Dry Piranha Plants": "??",
+        "Dry Piranha Plants": "https://imgur.com/zNn7emR",
         "Piranha Creeper": "https://i.imgur.com/feLoPq1.jpg",
 
         "Hammer Bros": "https://i.imgur.com/hHJUJWs.png",
-        "Fire Bros": "??",
-        "Ice Bros": "??",
+        "Fire Bros": "https://imgur.com/nOaTzX3",
+        "Ice Bros": "https://imgur.com/s24v6gQ",
         "Boomberang Bros": "https://i.imgur.com/WvIthNR.png",
         "Slege Bros": "??",
 
-        "Cheep Cheeps": "??",
+        "Cheep Cheeps": "https://imgur.com/hgCWakH",
         "{color} Cheep Cheeps": "??",
         "Rip Van Fishes": "??",
 
@@ -142,10 +142,10 @@
         "Ground Bloopers": "??",
         "Blooper Nannies": "??",
 
-        "Bullet-Bills": "??",
+        "Bullet-Bills": "https://imgur.com/gluUY1r",
         "Homing Bullet-Bills": "??",
         "Banzai-bills": "??",
-        "King Bills": "??",
+        "King Bills": "https://imgur.com/eeoOTT7",
 
         "Bowser": "https://i.imgur.com/FV7d0VQ.jpg",
         "Bowser Jr": "https://i.imgur.com/NyJXLWx.png",
@@ -155,24 +155,27 @@
         "Thwomps": "??",
         "Sideways Thwomps": "??",
         "Thwimps": "??",
-        "Skewers": "??",
+        "Skewers": "https://imgur.com/q8KjYWC",
 
         "Beetles": "??",
         "Spinies": "https://i.imgur.com/eDfp1dH.png",
         "Spike Tops": "??",
+        "Para-Bettles": "??",
+        "{color} Para-Bettles": "??",
+		
         "Munchers": "??",
         "Lakitus": "??",
-        "Angry Suns": "??",
+        "Angry Suns": "https://imgur.com/hbBuji8",
         "Fuzzies": "https://i.imgur.com/bU3o6RD.png",
         "Amps": "??",
+		
         "Cannon Ball Cannons": "??",
         "Bony Beetles": "??",
         "Chain Chomps": "https://i.imgur.com/2VyL2Iz.jpg",
         "Moles": "??",
-        "Para-Bettles": "??",
-        "{color} Para-Bettles": "??",
         "Rocky Wrehnches": "??",
         "Lava Bubble": "??",
+		
         "Spike": "??",
         "Wigglers": "??",
         "Angry Wigglers": "??",
@@ -180,11 +183,13 @@
         "Pokey": "??",
         "Snow Pokey": "??",
         "Ninjis": "??",
+		
         "Bob-Ombs": "https://i.imgur.com/pGjWzK9.png",
         "Boos": "??",
         "Boo Circles": "??",
         "Stretchs": "??",
         "Magikoopas": "??",
+		
         "Fishbones": "??",
         "Side Steppers": "??",
         "Fighter Flies": "??",
